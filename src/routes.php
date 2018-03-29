@@ -2,8 +2,8 @@
 
 Route::group(['middleware' => ['web']], function () {
     Route::group(['namespace' => 'Acr\Acr_tasarla\Controllers', 'prefix' => 'acr/tasarla'], function () {
+        Route::get('/main', 'TasarlaController@index');
         Route::group(['middleware' => ['auth']], function () {
-            Route::get('/main', 'TasarlaController@index');
             Route::group(['middleware' => ['admin']], function () {
                 Route::post('/sira/update', 'TasarlaController@sira_update');
                 Route::get('/file/select', 'TasarlaController@file_select');
