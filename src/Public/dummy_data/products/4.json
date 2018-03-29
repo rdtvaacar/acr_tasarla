@@ -1,1 +1,7 @@
-{"status":true,"images":["dummy_data/products/hood/12.png","dummy_data/products/hood/12-1.png"],"message":"Images Loaded Successfully"}
+{
+  "status": true,
+  "images": [
+    "dummy_data/products/asci/1_1.png"
+  ],
+  "message": "Images Loaded Successfully"
+}

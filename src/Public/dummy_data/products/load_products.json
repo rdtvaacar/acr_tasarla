@@ -1,4 +1,4 @@
-{
+﻿{
   "status": true,
   "products": [
     {
@@ -20,17 +20,37 @@
       "price": 39.99,
       "category": "Tişört",
       "currency": "TL",
-      "image": "dummy_data/products/t_shirts/2_0.png",
+      "image": "dummy_data/products/t_shirts/1_0.png",
       "sub_images": [
-        "dummy_data/products/t_shirts/2_0.png",
-        "dummy_data/products/t_shirts/2_1.png",
-        "dummy_data/products/t_shirts/2_2.png",
-        "dummy_data/products/t_shirts/2_3.png",
-        "dummy_data/products/t_shirts/2_4.png",
-        "dummy_data/products/t_shirts/2_5.png",
-        "dummy_data/products/t_shirts/2_6.png"
+        "dummy_data/products/t_shirts/1_0.png",
+        "dummy_data/products/t_shirts/1_1.png"
       ],
       "description": "Kendi tişörtünü tasarla"
+    },
+    {
+      "id": 3,
+      "name": "Aşçı Önlüğü",
+      "price": 39.99,
+      "category": "Aşçı Önlüğü",
+      "currency": "TL",
+      "image": "dummy_data/products/asci/1_0.png",
+      "sub_images": [
+        "dummy_data/products/t_shirts/1_0.png",
+        "dummy_data/products/t_shirts/1_1.png"
+      ],
+      "description": "Aşçı Önlüğünü Tasarla"
+    },
+    {
+      "id": 4,
+      "name": "Aşçı Önlüğü",
+      "price": 39.99,
+      "category": "Aşçı Önlüğü",
+      "currency": "TL",
+      "image": "dummy_data/products/asci/1_1.png",
+      "sub_images": [
+        "dummy_data/products/t_shirts/1_1.png"
+      ],
+      "description": "Aşçı Önlüğünü Tasarla"
     }
   ],
   "message": "Ürünler başarıyla yüklendi"

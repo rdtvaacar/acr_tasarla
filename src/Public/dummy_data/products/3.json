@@ -1,1 +1,8 @@
-{"status":true,"images":["dummy_data/products/t_shirts/1.png","dummy_data/products/t_shirts/1-1.png","dummy_data/products/t_shirts/1-2.png","dummy_data/products/t_shirts/1-3.png"],"message":"Images Loaded Successfully"}
+{
+  "status": true,
+  "images": [
+    "dummy_data/products/asci/1_0.png"
+
+  ],
+  "message": "Resimler yüklendi"
+}
