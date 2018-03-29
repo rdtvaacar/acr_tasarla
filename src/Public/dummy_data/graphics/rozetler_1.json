@@ -1,0 +1,18 @@
+{
+  "status": true,
+  "page": 1,
+  "loadMore": false,
+  "data_result": [
+    "dummy_data/graphics/rozetler/1.svg",
+    "dummy_data/graphics/rozetler/2.svg",
+    "dummy_data/graphics/rozetler/3.svg",
+    "dummy_data/graphics/rozetler/21.svg",
+    "dummy_data/graphics/rozetler/22.svg",
+    "dummy_data/graphics/rozetler/23.svg",
+    "dummy_data/graphics/rozetler/24.svg",
+    "dummy_data/graphics/rozetler/25.svg",
+    "dummy_data/graphics/rozetler/26.svg",
+    "dummy_data/graphics/rozetler/27.svg"
+  ],
+  "message": "Rozetler Yüklendi."
+}
