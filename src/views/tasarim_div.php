@@ -1,6 +1,6 @@
 <div class="container ng-scope" ng-controller="ProductCtrl" ng-app="productApp" id="productApp">
     <div ng-show="loading" class="loading">
-        <h1 class="lodingMessage">Initializing Design Tool<img src="/acr/tasarla/images/ajax-loader.gif"></h1>
+        <h1 class="lodingMessage">Tasarım Ekranı Yükleniyor<img src="/acr/tasarla/images/ajax-loader.gif"></h1>
     </div>
     <div class="row clearfix" ng-cloak>
 
@@ -560,7 +560,7 @@
     </div>
 
 
-    <section class="customizer" id="customizer">
+    <!--<section class="customizer" id="customizer">
         <a href="http://designtailor.veepixel.com/"><img src="/acr/tasarla/images/logo.png" alt="" class="logo"></a>
         <div class="selector">
             <h2>Canlı Değiştirme</h2>
@@ -604,7 +604,7 @@
             </div>
         </div>
         <i class="fa fa-cog" id="selector_icon"></i>
-    </section>
+    </section>-->
 </div>
 
 </div>

@@ -1,1 +1,8 @@
-{"status":true,"images":["dummy_data/products/t_shirts/20.png","dummy_data/products/t_shirts/20-1.png","dummy_data/products/t_shirts/20-2.png"],"message":"Images Loaded Successfully"}
+{
+  "status": true,
+  "images": [
+    "dummy_data/products/onluk/1_0.png",
+    "dummy_data/products/onluk/1_1.png"
+  ],
+  "message": "Resimler başarıyla yüklendi"
+}

@@ -934,7 +934,7 @@ md-radio-group md-radio-button {
   margin-top: 10px;
   max-width: 100%;
 }
-.badges {
+.rozetler {
   background-image:url("../images/badges.svg");
 }
 .cliparts {
@@ -946,10 +946,13 @@ md-radio-group md-radio-button {
 .quotes {
   background-image:url("../images/quote.svg");
 }
-.shapes {
+.sekiller {
   background-image:url("../images/shapes.svg");
 }
-.zodiacsign {
+.okul_oncesi {
+    background-image:url("../images/okuloncesi.svg");
+}
+.burclar {
   background-image:url("../images/zodiac.svg");
 }
 .countryflags {

@@ -1569,10 +1569,10 @@ angular.module('common.fabric', [
             $( fonts ).insertAfter( $(document).find( ".svgElements > svg > desc" ) );
             var svgResult = $(document).find('.svgElements').html();
 
-         
+
             // Create a Data URI.
             var svg = 'data:image/svg+xml;base64,'+window.btoa(svgResult);
-            
+
             return svg;
         };
 
@@ -1582,12 +1582,12 @@ angular.module('common.fabric', [
         self.saveCanvasObjectAsPng = function() {
 
             canvas.deactivateAll().renderAll();
-        
+
             var png = canvas.toDataURL({
               format: 'png',
               multiplier: 1
             });
-        
+
             return png;
         };
 
@@ -1597,12 +1597,12 @@ angular.module('common.fabric', [
         self.saveCanvasObjectAsJpg = function() {
 
             canvas.deactivateAll().renderAll();
-          
+
             var jpeg = canvas.toDataURL({
               format: 'jpeg',
               multiplier: 1
             });
-            
+
             return jpeg;
         };
 
@@ -2005,7 +2005,7 @@ angular.module('common.fabric', [
                 canvasSize = 220;
             }else if(winWidth < 600){
                 canvasSize = 350;
-            } 
+            }
 
 			// For easily accessing the json
 			JSONObject = angular.fromJson(self.json);

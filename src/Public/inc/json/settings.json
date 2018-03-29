@@ -3,10 +3,10 @@
   "settings": {
     "notification_messages": {
       "GENERAL_ERROR": "Error. Unknown system response. Controller: ProductController",
-      "CANVAS_EMPTY": "Select product to perform this action",
+      "CANVAS_EMPTY": "Bu işlemi gerçekleştirmek için ürün seçiniz.",
       "IMAGE_SIZE": "Image is too large (MAX SIZE: 300*300)",
       "WORDCLOUD_EMPTY": "Please enter some words for generate wordcloud.",
-      "TYPE_NUMBER_REQUIRED": "Only numbers is allowed"
+      "TYPE_NUMBER_REQUIRED": "Yalnızca numara"
     },
     "request_url": {
       "LOAD_PRODUCTS": "dummy_data/products/load_products.json",
@@ -19,33 +19,35 @@
       "loadMore": true,
       "graphicsPage": 1,
       "defaultProductId": 1,
-      "defaultProductImage": "dummy_data\/products\/t_shirts\/20.png",
+      "defaultProductImage": "dummy_data\/products\/onluk\/1_0.png",
       "quantity": 1,
       "defaultPrice": 210,
-      "defaultCurrency": "USD",
+      "defaultCurrency": "TL",
       "defaultProductTitle": "Tees Nues",
       "qrCode": "qrcode",
-      "enter_drawing_mode": "Enter Drawing Mode",
-      "drawing_mode_selector": "Pencil",
+      "enter_drawing_mode": "Kalem Modu Aktif",
+      "drawing_mode_selector": "Kalem",
       "drawing_line_width": 30,
       "drawing_color": "#000000",
       "drawing_line_shadow": 0,
       "primaryColor": "#26C4E2",
       "secondaryColor": "#ffffff",
-      "graphicsCategory": "Flat Icons",
+      "graphicsCategory": "Okul Oncesi",
       "graphicsCategories": {
-        "Flat Icons": "Flat Icons",
-        "ClipArts": "ClipArts",
+        "Okul Oncesi": "Okul Oncesi",
+        "Sinif": "Sinif",
+        "Düz Simgeler": "Flat Icons",
+        "Sanatsal": "ClipArts",
         "Flags": "Country Flags",
-        "Shapes": "Shapes",
+        "Sekiller": "Sekiller",
         "Quotes": "Quotes",
-        "Badges": "Badges",
-        "Zodiac": "Zodiac Sign"
+        "Rozetler": "Rozetler",
+        "Burclar": "Burclar"
       },
       "productCategories": {
-        "All": "All",
+        "Hepsi": "Hepsi",
         "Önlük": "Önlük",
-        "Tişört": "Bottles"
+        "Tişört": "Tişört"
       },
       "productByName": "DESC",
       "productByNames": {

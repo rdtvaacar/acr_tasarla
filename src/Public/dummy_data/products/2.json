@@ -1,1 +1,13 @@
-{"status":true,"images":["dummy_data/products/t_shirts/16.png","dummy_data/products/t_shirts/16-1.png"],"message":"Images Loaded Successfully"}
+{
+  "status": true,
+  "images": [
+    "dummy_data/products/t_shirts/2_0.png",
+    "dummy_data/products/t_shirts/2_1.png",
+    "dummy_data/products/t_shirts/2_2.png",
+    "dummy_data/products/t_shirts/2_3.png",
+    "dummy_data/products/t_shirts/2_4.png",
+    "dummy_data/products/t_shirts/2_5.png",
+    "dummy_data/products/t_shirts/2_6.png"
+  ],
+  "message": "Reismler yüklendi"
+}
