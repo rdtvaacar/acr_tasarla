@@ -990,6 +990,10 @@ md-radio-group md-radio-button {
     background-image: url("../images/zodiac.svg");
 }
 
+.asci {
+    background-image: url("../images/asci.svg");
+}
+
 .countryflags {
     background-image: url("../images/flag.png");
 }
