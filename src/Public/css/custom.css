@@ -994,6 +994,12 @@ md-radio-group md-radio-button {
     background-image: url("../images/asci.svg");
 }
 
+.fen {
+    background-image: url("../images/fen.svg");
+}
+.din {
+    background-image: url("../images/din.svg");
+}
 .countryflags {
     background-image: url("../images/flag.png");
 }
