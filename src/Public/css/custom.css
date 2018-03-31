@@ -997,9 +997,18 @@ md-radio-group md-radio-button {
 .fen {
     background-image: url("../images/fen.svg");
 }
+
 .din {
     background-image: url("../images/din.svg");
 }
+
+.turkce {
+    background-image: url("../images/turkce.svg");
+}
+.sosyal {
+    background-image: url("../images/sosyal.svg");
+}
+
 .countryflags {
     background-image: url("../images/flag.png");
 }
