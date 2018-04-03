@@ -1008,7 +1008,12 @@ md-radio-group md-radio-button {
 .sosyal {
     background-image: url("../images/sosyal.svg");
 }
-
+.sanat {
+     background-image: url("../images/sanat.svg");
+ }
+.matematik {
+    background-image: url("../images/matematik.svg");
+}
 .countryflags {
     background-image: url("../images/flag.png");
 }
