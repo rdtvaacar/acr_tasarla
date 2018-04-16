@@ -528,7 +528,9 @@
                     NOT:
                     <ul>
                         <li>İstediğiniz şablonları kullanarak kendinize özgü tasarımlar oluşturun <span class="fa fa-cloud-download"></span> kaydettikten sonra 0 542 827 19 36 nolu telefona WHATSAPP aracılığıyla sipariş verebilirsiniz.</li>
-                        <li>Şablonlar arasında geçiş yapabilir istediğiniz şablonu seçip tasarım oluşturabilirsiniz. Örn : Sınıf öğretmenliği tasarımı için SINIF ve OKUL ONCESİ Şablonlarını birlikte kullanabilirsiniz.</li>
+                        <li>Şablonlar arasında geçiş yapabilir istediğiniz şablonu seçip tasarım oluşturabilirsiniz. Örn : Sınıf öğretmenliği tasarımı için SINIF ve OKUL ONCESİ Şablonlarını birlikte kullanabilirsiniz. Kollar yaka
+                            ve arkaya baskı için ekstra ücret talep edilebilir.
+                        </li>
                     </ul>
                 </div>
                 <!--<div class="canvas_details clearfix">
